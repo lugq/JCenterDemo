@@ -2,7 +2,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 // This is the library version used when deploying the artifact
 // 配置版本
-version = "1.0.0"
+version = "1.0.1"
 
 // 定义相关网站
 def siteUrl = 'https://github.com/lugq/permissionDemo'  // 项目的主页
